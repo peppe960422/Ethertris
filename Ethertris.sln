@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ethertris", "Ethertris.csproj", "{34933CC7-533E-42EA-A853-29048FA6AE5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34933CC7-533E-42EA-A853-29048FA6AE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34933CC7-533E-42EA-A853-29048FA6AE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34933CC7-533E-42EA-A853-29048FA6AE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34933CC7-533E-42EA-A853-29048FA6AE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE84459-90B4-47A5-A1F3-0525C556FF6D}
+	EndGlobalSection
+EndGlobal
